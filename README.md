@@ -95,7 +95,7 @@ It is used to search for a specific value in a range or table of data and return
   # Dashboard
   Engineering is one of the most renowned professions in the world. This dashboard contains data about engineers from Pakistan.
   
-  ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/534bf3c8-69ea-41be-91e9-6a677c49a7fd)
+  ![image](https://github.com/Van-Del/Group-1-Midterm-Dashboard/assets/143604847/05b42fb1-095e-4506-b867-0676cc4d09aa)
 
   ## Total number of Engineers in a company in this courses
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/bff9623d-0556-41ff-904e-fdf9b1b85b46)
