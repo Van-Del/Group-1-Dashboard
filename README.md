@@ -93,22 +93,27 @@ It is used to search for a specific value in a range or table of data and return
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/060b5558-b2c8-470a-89a4-54f33b35031a)
 
   # Dashboard
-  This dashboard contains all the data about engineers' employment which includes, employment duration, city, company, and specialization.
+  Engineering is one of the most renowned professions in the world. This dashboard contains data about engineers from Pakistan.
   
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/534bf3c8-69ea-41be-91e9-6a677c49a7fd)
 
   ## Total number of Engineers in a company in this courses
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/bff9623d-0556-41ff-904e-fdf9b1b85b46)
+  Agricultural Engineers has the most numbers employed in a company with a whopping 271 Engineers. And the 2nd and 3rd are the Chemical Engineer and Architect Engineer, with 172 Engineers and 35 Engineers, respectively
 
   ## Total number of firms per Province
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/0989a39d-e380-4a3f-9bbb-c6b482d1fefa)
+  The province with the most firms is in the province of Punjab. Punjab is Pakistan's most industrialized province, where it has 260 Firms.
 
   ## Number of Engineers per Province
   ![image](https://github.com/MarjhunCacao/Group-1-Midterm-Dashboard/assets/144245978/39f07d88-024c-4503-a7c3-370310b87a17)
+  The result in this graph is the same as the Total number of Firms per Province because the Engineers working in these provinces are working in those Firms.
 
   ## Total number of Engineers in this courses per Province
   ![image](https://github.com/MarjhunCacao/Midterm_Group1/assets/144245978/1e5f707d-b58b-4b16-8986-8cd40f630492)
   ![image](https://github.com/MarjhunCacao/Midterm_Group1/assets/144245978/81160a25-4074-4bec-98e5-eaa2bd273bad)
+  The province of Punjab has the highest number of Engineers in Agricultural(141), Architecture(26) and Chemical Engineers(91). And for the province of Sindh, this is where all the Automotive Engineers(2) located. Islamabad has the most Biomedical Engineers, with a total of 2 Engineers. Lastly, Azad Kashmir, Islamabad, Punjab, and Sindh have 1 Engineer each in Aerospace Engineering.
+
 
 
 
